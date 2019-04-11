@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.openclassrooms.testing</groupId>
-    <artifactId>Chapter5Calculator</artifactId>
+    <artifactId>openclassrooms-java-testing-p1-c6</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
