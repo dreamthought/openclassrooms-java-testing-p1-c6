@@ -1,7 +1,9 @@
-# JUnit4 Basic Annotations
+# Helpful Reporting Plugins To Improve Code Quality
 ## Supporting Examples
 
-* You can run the tests with `mvn test`
+* You can run the tests with `clean mvn test site`
+* Now have a look into the target site directory.
+* Have a go at fixing some of the bugs, styling errors and other issues.
 * These examples are fully described in my Openclassrooms course on testing in Java.
  
   
