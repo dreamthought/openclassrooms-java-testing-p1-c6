@@ -23,6 +23,10 @@ public class Calculator {
      * @return result of the subtraction
      */
     public Double subtract(final Double left, final Double right) {
+        // What does findbugs think of this impossible situation?
+        if (left==null && left.isNaN())
+            System.out.println("Do not run this line of code");
+
         return left + right;
     }
 }
