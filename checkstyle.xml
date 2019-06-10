@@ -4,7 +4,7 @@
         "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
 
 <!--
-    lambazon overrides to google checkstyles
+    This file overrides google checkstyles
  -->
 
 <module name = "Checker">
